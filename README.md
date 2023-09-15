@@ -4,7 +4,7 @@
 
 ## 📖 目录
 
-[📰 魔方故事](https://github.com/clos0710/Rubik-Cube#%EF%B8%8F-%E9%AD%94%E6%96%B9%E6%95%85%E4%BA%8B) | [✏️ 心路历程](https://github.com/clos0710/Rubik-Cube/tree/master#%EF%B8%8F-%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B)
+[📰 魔方故事](https://github.com/clos0710/Rubik-Cube#%EF%B8%8F-%E9%AD%94%E6%96%B9%E6%95%85%E4%BA%8B) | [✏️ 心路历程](https://github.com/clos0710/Rubik-Cube#%EF%B8%8F-%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B)
 
 ## 📰 魔方故事
 
@@ -30,7 +30,6 @@
 >
 > —— 百度百科
 
-[📖 目录](https://github.com/clos0710/Rubik-Cube#%E7%9B%AE%E5%BD%95)
+[📖 目录](https://github.com/clos0710/Rubik-Cube#-%E7%9B%AE%E5%BD%95)
 
 ## ✏️ 心路历程
-
