@@ -16,7 +16,7 @@
 # Eclipse Files
 .classpath
 .project
-.settings
+/.settings/
 
 # Github Files
 .gitignore
