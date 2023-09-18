@@ -56,7 +56,7 @@
 
 为之则难者亦易矣，不为则易者亦难矣。**为了方便描述，我将魔方分为三层：底层、二层、顶层（如下图），同时借助github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)来形象展示**
 
-![](https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png)
+![](https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png){width=200px}
 
 > 视频版教程请参考抖音视频：https://v.douyin.com/iexTBRP6/
 > 
