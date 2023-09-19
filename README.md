@@ -62,7 +62,7 @@
 
 1. 魔方分层
 
-    **分三层：底层、二层、顶层（如下图）。分层法的基本思路是逐层还原。**
+    **三层：底层、二层、顶层。分层法的基本思路是逐层还原。**
 
     <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" /></p>
 
@@ -70,10 +70,14 @@
 
 2. 魔方分块
 
-    **26块：6个中心块，8个角块，12个棱块。**
+    **26块：6个中心块，12个棱块，8个角块。中心块 —— 一种颜色，棱块 —— 两种颜色，角块 —— 三种颜色。**
 
     <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" /></p>
 
 3. 魔方旋转
 
-    **
+    **左右手各握持一边，一面朝内。**
+    
+    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve3.png" /></p>
+    
+    
