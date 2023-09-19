@@ -74,10 +74,10 @@
 
     这一步最简单，大部分人不通过公式都可以做到。
   
-    **需要注意的是，底层还原需要将角块和棱块也对齐，例如棱块白色，同一边两个角块边色也是白色（如下图）。**
+    **需要注意的是，底层还原需要将角块、棱块和中心块也对齐，例如中心块是白色，那么棱块、同一边两个角块边色也必须是白色（如下图）。**
 
 <p align="center">
-    <img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" />
+    <img width="350px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" />
 </p>
 
 2. 还原二层
