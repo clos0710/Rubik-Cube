@@ -56,19 +56,19 @@
 
 为之则难者亦易矣，不为则易者亦难矣。**为了方便描述，我将魔方分为三层：底层、二层、顶层（如下图），同时借助github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)来形象展示**
 
-![](https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png){width=200px}
+<img width="400px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" />
 
 > 视频版教程请参考抖音视频：https://v.douyin.com/iexTBRP6/
 > 
 > 看过这么多视频，“魔方校长”讲解是最为详细的。每一步的演示也比较慢。我是照着他的教程还原的。
 
-**1. 还原底层**
+1. 还原底层
 
     这一步最简单，大部分人不通过公式都可以做到。
   
     **需要注意的是，底层还原需要将角块和棱块也对齐，例如棱块白色，同一边两个角块边色也是白色（如下图）。**
 
-**2. 还原二层**
+2. 还原二层
 
     这一步需要公式，主要原理是在顶层找到二层的棱块，还原到正确的位置。
 
