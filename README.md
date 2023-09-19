@@ -60,9 +60,7 @@
 
 三阶魔方的还原方法很多：层先法、角先法、棱先法、桥式法、CFOP、CFOOP、笑面虎法等。初学者大都选择层先法，特点是公式少且便于理解。
 
-经过两周的视频学习，终于学会了使用**层先法**还原魔方。**层先法将魔方分为三层：底层、二层、顶层（如下图），基本思路是一层一层还原。**
-
-**为了形象展示，我借助了github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)（[在线体验](https://huazhechen.gitee.io/cuber/)）来截图展示。**
+经过两周的视频学习，终于学会了使用**层先法**还原魔方。**层先法将魔方分为三层：底层、二层、顶层（如下图），基本思路是一层一层还原。为了形象展示，我借助了github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)（[在线体验](https://huazhechen.gitee.io/cuber/)）来截图展示。**
 
 <p align="center">
     <img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" />
