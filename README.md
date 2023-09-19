@@ -2,7 +2,7 @@
     <img width="400px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/Cube.png" />
 </p>
 
-## 📖 目录
+## 📖 目录结构
 
 [📰 魔方故事](https://github.com/clos0710/Rubik-Cube#%EF%B8%8F-%E9%AD%94%E6%96%B9%E6%95%85%E4%BA%8B) | [✏️ 心路历程](https://github.com/clos0710/Rubik-Cube#%EF%B8%8F-%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B) | [🤨 实物还原](https://github.com/clos0710/Rubik-Cube#-%E5%AE%9E%E7%89%A9%E8%BF%98%E5%8E%9F)
 
