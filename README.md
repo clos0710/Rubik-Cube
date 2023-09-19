@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="400px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/Cube.png" />
-</p>
+<p align="center"><img width="400px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/Cube.png" /></p>
 
 ## 📖 目录结构
 
@@ -66,9 +64,7 @@
 
     **分三层：底层、二层、顶层（如下图）。分层法的基本思路是逐层还原。**
 
-<p align="center">
-    <img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" />
-</p>
+    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" /></p>
 
     **为了形象展示，我借助了github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)（[在线体验](https://huazhechen.gitee.io/cuber/)）截图展示。**
 
@@ -76,9 +72,7 @@
 
     **26块：6个中心块，8个角块，12个棱块。**
 
-<p align="center">
-    <img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" />
-</p>
+    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" /></p>
 
 3. 魔方旋转
 
