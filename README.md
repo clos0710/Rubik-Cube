@@ -80,4 +80,8 @@
     
     <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve3.png" /></p>
     
+    **下面的内容非常重要，是魔方还原的旋转手法，请牢记！**
+    
+    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve4.png" /></p>
+    
     
