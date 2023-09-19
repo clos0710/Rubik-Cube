@@ -58,32 +58,28 @@
 >
 > —— 《为学一首示子侄》 清· 彭端淑
 
-三阶魔方的还原方法很多：层先法、角先法、棱先法、桥式法、CFOP等。初学者大都选择层先法，特点是公式少且便于理解。
+经过两周的视频学习，终于可以使用**层先法**还原魔方。家人说我着了魔似的，一有空就在拧。其实是公式不太熟，多拧几次记得牢。
 
-经过两周的视频学习，终于学会了使用**层先法**还原魔方。**层先法将魔方分为三层：底层、二层、顶层（如下图），基本思路是一层一层还原。为了形象展示，我借助了github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)（[在线体验](https://huazhechen.gitee.io/cuber/)）来截图展示。**
+在介绍**层先法**前，先对三阶魔方做一个介绍和约定：
+
+1. 魔方分层
+
+    **分三层：底层、二层、顶层（如下图）。分层法的基本思路是逐层还原。**
 
 <p align="center">
     <img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" />
 </p>
 
-> 视频版教程请参考抖音视频：https://v.douyin.com/iexTBRP6/
-> 
-> 看过这么多视频，“魔方校长”讲解是最为详细的。每一步的演示也比较慢。我是照着他的教程还原的。
+    **为了形象展示，我借助了github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)（[在线体验](https://huazhechen.gitee.io/cuber/)）截图展示。**
 
-1. 还原底层
+2. 魔方分块
 
-    这一步最简单，大部分人不通过公式都可以做到。
-  
-    **需要注意的是，底层还原需要将角块、棱块和中心块对齐颜色，例如中心块是白色，那么棱块、同一边两个角块边色也必须是白色（如下图）。**
+    **26块：6个中心块，8个角块，12个棱块。**
 
 <p align="center">
-    <img width="400px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" />
+    <img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" />
 </p>
 
-2. 还原二层
+3. 魔方旋转
 
-    这一步需要公式，主要原理是在顶层找到二层的棱块，还原到正确的位置。
-
-	**这个过程分两种情况：一是棱块需要还原到左侧，二是棱块需要还原到右侧，如下图。**
-	
-    还原到左侧公式：
+    **
