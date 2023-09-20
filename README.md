@@ -84,4 +84,4 @@
     
     <p align="center"><img width="600px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve4.png" /></p>
     
-    
+    是的，记住上面7个旋转手法就能还原魔方（不需要辛马斯特标记这么复杂，不好记）。
