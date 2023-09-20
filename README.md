@@ -96,7 +96,7 @@
 >
 >    **需要注意的是，底层还原需要将角块、棱块和中心块对齐颜色，例如中心块是白色，那么棱块、同一边两个角块边色也必须是白色（如下图）。**
 >
->    <p align="center"><img width="600px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve5.png" /></p>
+>    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve5.png" /></p>
 >
 > 2. 还原二层
 >
