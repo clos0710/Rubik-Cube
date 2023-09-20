@@ -58,37 +58,37 @@
 
 经过两周的视频学习，终于可以使用**层先法**还原魔方。家人说我着了魔似的，一有空就在拧。其实是公式不太熟，多拧几次记得牢。
 
-- 在介绍**层先法**前，先对三阶魔方做一个介绍和约定：
+> - 在介绍**层先法**前，先对三阶魔方做一个介绍和约定：
+>
+> 1. 魔方分层
+>
+>    **三层：底层、二层、顶层。分层法的基本思路是逐层还原。**
+>
+>    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" /></p>
+>
+>    **为了形象展示，我借助了github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)（[在线体验](https://huazhechen.gitee.io/cuber/)）截图展示。**
+>
+> 2. 魔方分块
+>
+>    **26块：6个中心块，12个棱块，8个角块。中心块 —— 一种颜色，棱块 —— 两种颜色，角块 —— 三种颜色。**
+>
+>    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" /></p>
+>
+> 3. 魔方旋转
+>
+>    **左右手各握持一边，一面朝内。**
+>    
+>    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve3.png" /></p>
+>    
+>    **下面的内容非常重要，是魔方还原的旋转手法，请牢记！**
+>    
+>    <p align="center"><img width="600px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve4.png" /></p>
+>    
+>    下：右手一侧向下旋转90°；上：右手一侧向上旋转90°；左：顶层向左旋转90°；右：顶层向右旋转90°；底：底层向右旋转90°；内翻：魔方整体向内翻转90°（顶面朝内）；外翻：魔方整体向外翻转90°（顶面朝外）。
+>    
+>    是的，记住上面7个旋转手法就能还原魔方（不需要辛马斯特标记这么复杂，不好记）。    
 
-1. 魔方分层
-
-    **三层：底层、二层、顶层。分层法的基本思路是逐层还原。**
-
-    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve1.png" /></p>
-
-    **为了形象展示，我借助了github上的优秀项目[魔方栈](https://github.com/huazhechen/cuber)（[在线体验](https://huazhechen.gitee.io/cuber/)）截图展示。**
-
-2. 魔方分块
-
-    **26块：6个中心块，12个棱块，8个角块。中心块 —— 一种颜色，棱块 —— 两种颜色，角块 —— 三种颜色。**
-
-    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve2.png" /></p>
-
-3. 魔方旋转
-
-    **左右手各握持一边，一面朝内。**
-    
-    <p align="center"><img width="300px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve3.png" /></p>
-    
-    **下面的内容非常重要，是魔方还原的旋转手法，请牢记！**
-    
-    <p align="center"><img width="600px" src="https://github.com/clos0710/Rubik-Cube/blob/master/img/CubeSolve4.png" /></p>
-    
-    下：右手一侧向下旋转90°；上：右手一侧向上旋转90°；左：顶层向左旋转90°；右：顶层向右旋转90°；底：底层向右旋转90°；内翻：魔方整体向内翻转90°（顶面朝内）；外翻：魔方整体向外翻转90°（顶面朝外）。
-    
-    是的，记住上面7个旋转手法就能还原魔方（不需要辛马斯特标记这么复杂，不好记）。    
-
-- **层先法**还原魔方，主要分三步 —— 还原底层、还原二层、还原顶层，三步中又有一些小步骤：
+> - **层先法**还原魔方，主要分三步 —— 还原底层、还原二层、还原顶层，三步中又有一些小步骤：
 
 1. 还原底层
 
